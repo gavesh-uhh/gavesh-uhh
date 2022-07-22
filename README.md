@@ -10,4 +10,4 @@
 
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a8aa047-e9d7-41aa-8674-d6a1a7318016/deploy-status)](https://app.netlify.com/sites/gavesha/deploys)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k2yt6s5b69js1tz7ul1i9mkq7&cover_image=false&theme=default&bar_color=13cd38&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=k2yt6s5b69js1tz7ul1i9mkq7&redirect=true)
