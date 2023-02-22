@@ -1,4 +1,14 @@
-https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270
+<p align="center">
+  <img align="center" src="https://media.tenor.com/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif" width="250"/>
+</p
+<br/>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+
+<br/>
 
 - 🔭 I’m currently working on LightJSON  
   
