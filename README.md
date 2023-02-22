@@ -1,5 +1,6 @@
 <p align="center">
-  <img align="center" src="https://media.tenor.com/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif" width="250"/>
+  <img align="center" src="https://wiki.hypixel.net/images/f/f0/SkyBlock_items_enchanted_obsidian.gif" width="250"/>
+  <img align="center" src="https://i.pinimg.com/originals/a8/38/83/a83883bc09c956f67033a83d1a1f1240.gif" width="250"/>
 </p
 <br/>
 <p align="center">
