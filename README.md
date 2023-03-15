@@ -1,14 +1,3 @@
-<p align="center">
-  <img align="center" src="https://wiki.hypixel.net/images/f/f0/SkyBlock_items_enchanted_obsidian.gif" width="250"/>
-  <img align="center" src="https://i.pinimg.com/originals/a8/38/83/a83883bc09c956f67033a83d1a1f1240.gif" width="250"/>
-</p
-<br/>
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
-
 <br/>
 
 - 🔭 I’m currently working on LightJSON  
