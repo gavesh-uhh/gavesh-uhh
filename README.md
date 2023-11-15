@@ -9,5 +9,9 @@ My Personal Website - http://gavesha.vercel.app
 <span><bold>Thanks for Checking In.</bold></span>
 </div>
 
+---
+
+**Note:** Most of the projects in my repository are primarily for learning purposes and may not serve any practical use. lol?
+
 
 
